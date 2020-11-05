@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dark_green",
+        "1": "gray",
+        "2": "red",
+        "3": "texture_1",
+        "4": "brown"
+      },
+      "name": "default"
+    }
+  }
+}

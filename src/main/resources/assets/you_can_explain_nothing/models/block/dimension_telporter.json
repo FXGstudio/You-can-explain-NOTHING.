@@ -1,0 +1,11 @@
+{
+  "parent": "you_can_explain_nothing:custom/dimension_teleporter_(1)",
+  "textures": {
+    "all": "you_can_explain_nothing:blocks/beacon",
+    "particle": "you_can_explain_nothing:blocks/beacon",
+    "0": "you_can_explain_nothing:blocks/chiseled_stone_bricks",
+    "1": "you_can_explain_nothing:blocks/beacon",
+    "2": "you_can_explain_nothing:blocks/acacia_log",
+    "3": "you_can_explain_nothing:blocks/129301"
+  }
+}

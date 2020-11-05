@@ -1,0 +1,16 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "you_can_explain_nothing:stone_hammer"
+    },
+    {
+      "item": "you_can_explain_nothing:stone_plate"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:stone_bend_plate",
+    "count": 1
+  }
+}

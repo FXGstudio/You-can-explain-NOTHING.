@@ -1,0 +1,26 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:tourmaline_gem"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:tourmaline_gem"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:tourmaline_gem"
+    },
+    "5": {
+      "item": "you_can_explain_nothing:tourmaline_gem"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:tourmaline_armor_boots",
+    "count": 1
+  }
+}

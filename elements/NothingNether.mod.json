@@ -1,0 +1,11 @@
+{
+  "_fv": 13,
+  "_type": "tab",
+  "definition": {
+    "name": "Nothing: Nether",
+    "icon": {
+      "value": "Blocks.NETHERRACK"
+    },
+    "showSearch": false
+  }
+}

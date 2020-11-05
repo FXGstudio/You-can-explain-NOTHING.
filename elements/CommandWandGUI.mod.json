@@ -1,0 +1,40 @@
+{
+  "_fv": 13,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 150,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 120,
+          "height": 20,
+          "name": "command",
+          "x": 148,
+          "y": 48
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "GO",
+          "onClick": {
+            "name": "GOCOMMAND"
+          },
+          "width": 20,
+          "height": 20,
+          "name": "GO",
+          "x": 200,
+          "y": 79
+        }
+      }
+    ]
+  }
+}

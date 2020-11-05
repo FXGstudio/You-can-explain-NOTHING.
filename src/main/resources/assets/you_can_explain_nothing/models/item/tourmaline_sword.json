@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "you_can_explain_nothing:items/tourmaline_sword"
+  }
+}

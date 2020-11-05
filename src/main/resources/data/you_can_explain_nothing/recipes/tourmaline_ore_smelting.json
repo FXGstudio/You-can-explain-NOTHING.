@@ -1,0 +1,12 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "you_can_explain_nothing:tourmaline_ore"
+  },
+  "result": {
+    "item": "you_can_explain_nothing:tourmaline_gem"
+  }
+}

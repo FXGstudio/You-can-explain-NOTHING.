@@ -1,0 +1,49 @@
+{
+  "_fv": 13,
+  "_type": "gun",
+  "definition": {
+    "renderType": 1,
+    "texture": "gun",
+    "customModelName": "rpg:default",
+    "name": "RPG",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NothingSurface"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 512,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 4.0,
+    "bulletDamage": 4.0,
+    "bulletKnockback": 2,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Blocks.TNT"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "RPGBulletHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "RPGBulletHitsPlayer"
+    },
+    "onBulletHitsEntity": {
+      "name": "RPGBulletHitsLivingEntity"
+    },
+    "onBulletFlyingTick": {
+      "name": "RPGWhileBulletFlyingTick"
+    }
+  }
+}

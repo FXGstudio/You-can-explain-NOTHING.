@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "you_can_explain_nothing:blocks/furnace_top",
+    "up": "you_can_explain_nothing:blocks/furnace_top",
+    "north": "you_can_explain_nothing:blocks/furnace_top",
+    "east": "you_can_explain_nothing:blocks/furnace_top",
+    "south": "you_can_explain_nothing:blocks/furnace_top",
+    "west": "you_can_explain_nothing:blocks/furnace_top",
+    "particle": "you_can_explain_nothing:blocks/furnace_top"
+  }
+}

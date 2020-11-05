@@ -1,0 +1,13 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:gum_log"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:gum_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:stone_compressed_plate"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:stone_compressed_plate"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:stone_compressed_plate"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:stone_compressed_plate"
+    },
+    "4": {
+      "item": "you_can_explain_nothing:stone_hammer"
+    },
+    "5": {
+      "item": "you_can_explain_nothing:stone_compressed_plate"
+    },
+    "6": {
+      "item": "you_can_explain_nothing:stone_compressed_plate"
+    },
+    "7": {
+      "item": "you_can_explain_nothing:stone_compressed_plate"
+    },
+    "8": {
+      "item": "you_can_explain_nothing:stone_compressed_plate"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:machine_casing_simple",
+    "count": 1
+  }
+}

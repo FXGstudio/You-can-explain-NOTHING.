@@ -1,0 +1,22 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "you_can_explain_nothing:copper_dust"
+    },
+    {
+      "item": "you_can_explain_nothing:tin_dust"
+    },
+    {
+      "item": "you_can_explain_nothing:tin_dust"
+    },
+    {
+      "item": "you_can_explain_nothing:tin_dust"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:bronze_dust",
+    "count": 16
+  }
+}

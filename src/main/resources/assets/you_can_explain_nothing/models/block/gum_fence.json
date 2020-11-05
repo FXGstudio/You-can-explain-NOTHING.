@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "you_can_explain_nothing:blocks/gum_planks",
+    "particle": "you_can_explain_nothing:blocks/gum_planks"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "you_can_explain_nothing:block/grinder_simple"
+    },
+    "facing=east": {
+      "model": "you_can_explain_nothing:block/grinder_simple",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "you_can_explain_nothing:block/grinder_simple",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "you_can_explain_nothing:block/grinder_simple",
+      "y": 270
+    }
+  }
+}

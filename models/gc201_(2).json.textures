@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "texture_1",
+        "1": "gray",
+        "2": "dark",
+        "3": "white"
+      },
+      "name": "default"
+    }
+  }
+}

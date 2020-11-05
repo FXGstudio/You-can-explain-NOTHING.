@@ -1,0 +1,26 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:ancient_dust"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:ancient_dust"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:ancient_dust"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:ancient_dust"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:ancient_dust_block",
+    "count": 1
+  }
+}

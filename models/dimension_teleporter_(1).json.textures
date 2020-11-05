@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "chiseled_stone_bricks",
+        "1": "beacon",
+        "2": "acacia_log",
+        "3": "129301"
+      },
+      "name": "default"
+    }
+  }
+}

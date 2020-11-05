@@ -1,0 +1,42 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:stone_bend_plate"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:tin_string"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:stone_rod"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:tin_string"
+    },
+    "4": {
+      "item": "you_can_explain_nothing:dried_gum"
+    },
+    "5": {
+      "item": "you_can_explain_nothing:tin_string"
+    },
+    "6": {
+      "item": "you_can_explain_nothing:paper_ring"
+    },
+    "7": {
+      "item": "you_can_explain_nothing:tin_string"
+    },
+    "8": {
+      "item": "you_can_explain_nothing:stone_bend_plate"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:generator_simple",
+    "count": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AncientDust"
+      },
+      {
+        "value": "CUSTOM:AncientDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AncientDust"
+      },
+      {
+        "value": "CUSTOM:AncientDust"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AncientDustBlock"
+    },
+    "name": "ancient_dust_block_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 13,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "command_wand",
+    "customModelName": "Normal",
+    "name": "Command Wand",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:NothingSurface"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 64,
+    "destroyAnyBlock": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 114515.0,
+    "specialInfo": [],
+    "hasGlow": false,
+    "guiBoundTo": "CommandWandGUI",
+    "inventorySize": 0,
+    "inventoryStackSize": 64
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:blue_dye"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:paper_ring"
+    },
+    "3": {
+      "item": "minecraft:blue_dye"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:blue_dye"
+    },
+    "6": {
+      "item": "you_can_explain_nothing:dried_gum"
+    },
+    "7": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:tool_handle",
+    "count": 1
+  }
+}

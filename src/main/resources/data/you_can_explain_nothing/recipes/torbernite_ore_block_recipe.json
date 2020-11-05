@@ -1,0 +1,42 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:torbernite"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:torbernite"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:torbernite"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:torbernite"
+    },
+    "4": {
+      "item": "you_can_explain_nothing:torbernite"
+    },
+    "5": {
+      "item": "you_can_explain_nothing:torbernite"
+    },
+    "6": {
+      "item": "you_can_explain_nothing:torbernite"
+    },
+    "7": {
+      "item": "you_can_explain_nothing:torbernite"
+    },
+    "8": {
+      "item": "you_can_explain_nothing:torbernite"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:torbernite_block",
+    "count": 1
+  }
+}

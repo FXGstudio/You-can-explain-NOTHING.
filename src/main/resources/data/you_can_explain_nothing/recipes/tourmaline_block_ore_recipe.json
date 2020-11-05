@@ -1,0 +1,13 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "you_can_explain_nothing:tourmaline_ore_block"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:tourmaline_gem",
+    "count": 9
+  }
+}

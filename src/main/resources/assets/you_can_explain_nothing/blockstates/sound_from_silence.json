@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "you_can_explain_nothing:block/sound_from_silence"
+    },
+    "facing=east": {
+      "model": "you_can_explain_nothing:block/sound_from_silence",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "you_can_explain_nothing:block/sound_from_silence",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "you_can_explain_nothing:block/sound_from_silence",
+      "y": 270
+    }
+  }
+}

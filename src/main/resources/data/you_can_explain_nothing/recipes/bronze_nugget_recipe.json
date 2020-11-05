@@ -1,0 +1,16 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:bronze_nugget",
+    "count": 9
+  }
+}

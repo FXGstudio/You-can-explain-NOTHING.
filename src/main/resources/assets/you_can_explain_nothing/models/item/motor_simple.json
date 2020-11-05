@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "you_can_explain_nothing:items/motor_simple"
+  }
+}

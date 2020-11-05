@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "you_can_explain_nothing:blocks/torbernite_ore",
+    "particle": "you_can_explain_nothing:blocks/torbernite_ore"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "texture": "you_can_explain_nothing:blocks/gum_planks"
+  }
+}

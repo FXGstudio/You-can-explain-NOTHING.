@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "you_can_explain_nothing:block/dimension_telporter"
+    },
+    "facing=east": {
+      "model": "you_can_explain_nothing:block/dimension_telporter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "you_can_explain_nothing:block/dimension_telporter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "you_can_explain_nothing:block/dimension_telporter",
+      "y": 270
+    }
+  }
+}

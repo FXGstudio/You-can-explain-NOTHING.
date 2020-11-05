@@ -1,0 +1,38 @@
+{
+  "the_easter": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "you_can_explain_nothing:rs-crystal_-_fu_huo_jie__the_easter",
+        "stream": false
+      }
+    ]
+  },
+  "the_mystery": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "you_can_explain_nothing:rs-crystal_-_mi_jing__the_mysterywei_fa_bu__",
+        "stream": false
+      }
+    ]
+  },
+  "the_samurai": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "you_can_explain_nothing:rs-crystal_-_wu_shi__the_samurai",
+        "stream": false
+      }
+    ]
+  },
+  "the_romance": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "you_can_explain_nothing:rs-crystal_-_xin_dong__the_romance",
+        "stream": false
+      }
+    ]
+  }
+}

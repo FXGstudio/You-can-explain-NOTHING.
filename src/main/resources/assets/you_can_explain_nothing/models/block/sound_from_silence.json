@@ -1,0 +1,12 @@
+{
+  "parent": "you_can_explain_nothing:custom/sound_from_silence",
+  "textures": {
+    "all": "you_can_explain_nothing:blocks/andesite.png",
+    "particle": "you_can_explain_nothing:blocks/andesite.png",
+    "0": "you_can_explain_nothing:blocks/andesite",
+    "1": "you_can_explain_nothing:blocks/furnace_top",
+    "2": "you_can_explain_nothing:blocks/furnace_side",
+    "3": "you_can_explain_nothing:blocks/furnace_front",
+    "4": "you_can_explain_nothing:blocks/magma"
+  }
+}

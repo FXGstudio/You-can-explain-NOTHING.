@@ -1,0 +1,2601 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "TourmalineGem",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_gem"
+    },
+    {
+      "name": "TourmalineOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_ore"
+    },
+    {
+      "name": "TourmalineOreBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_ore_block"
+    },
+    {
+      "name": "TourmalineOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_ore_block_recipe"
+    },
+    {
+      "name": "TourmalineBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_block_ore_recipe"
+    },
+    {
+      "name": "TourmalineOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_ore_smelting"
+    },
+    {
+      "name": "TourmalinePickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_pickaxe"
+    },
+    {
+      "name": "TourmalineAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_axe"
+    },
+    {
+      "name": "TourmalineSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_sword"
+    },
+    {
+      "name": "TourmalineShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_shovel"
+    },
+    {
+      "name": "TourmalineHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_hoe"
+    },
+    {
+      "name": "TourmalinePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_pickaxe_recipe"
+    },
+    {
+      "name": "TourmalineAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_axe_recipe"
+    },
+    {
+      "name": "TourmalineSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_sword_recipe"
+    },
+    {
+      "name": "TourmalineShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_shovel_recipe"
+    },
+    {
+      "name": "TourmalineHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_hoe_recipe"
+    },
+    {
+      "name": "TourmalineArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_armor"
+    },
+    {
+      "name": "TourmalineArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_armor_helmet_recipe"
+    },
+    {
+      "name": "TourmalineArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_armor_body_recipe"
+    },
+    {
+      "name": "TourmalineArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_armor_leggings_recipe"
+    },
+    {
+      "name": "TourmalineArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tourmaline_armor_boots_recipe"
+    },
+    {
+      "name": "NothingSurface",
+      "type": "tab",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nothing_surface"
+    },
+    {
+      "name": "GC201",
+      "type": "gun",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gc_201"
+    },
+    {
+      "name": "RPGWhileBulletFlyingTick",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rpg_while_bullet_flying_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RPGBulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rpg_bullet_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RPGBulletHitsPlayer",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rpg_bullet_hits_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RPGBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rpg_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RPG",
+      "type": "gun",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rpg"
+    },
+    {
+      "name": "CommandWandGUI",
+      "type": "gui",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "command_wand_gui"
+    },
+    {
+      "name": "GOCOMMAND",
+      "type": "procedure",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gocommand",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "guistate",
+            "type": "map"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CommandWand",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "command_wand"
+    },
+    {
+      "name": "GC201Recipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gc_201_recipe"
+    },
+    {
+      "name": "RPGRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rpg_recipe"
+    },
+    {
+      "name": "CommandWandRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "command_wand_recipe"
+    },
+    {
+      "name": "AncientDust",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_dust"
+    },
+    {
+      "name": "AncientDustBlock",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_dust_block"
+    },
+    {
+      "name": "AncientDustBlockRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_dust_block_recipe"
+    },
+    {
+      "name": "CopperIngot",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ingot"
+    },
+    {
+      "name": "CopperOre",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore"
+    },
+    {
+      "name": "CopperOreBlock",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_block"
+    },
+    {
+      "name": "CopperOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_block_recipe"
+    },
+    {
+      "name": "CopperBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_block_ore_recipe"
+    },
+    {
+      "name": "CopperOreSmelting",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_smelting"
+    },
+    {
+      "name": "CopperPickaxe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_pickaxe"
+    },
+    {
+      "name": "CopperAxe",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_axe"
+    },
+    {
+      "name": "CopperSword",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_sword"
+    },
+    {
+      "name": "CopperShovel",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_shovel"
+    },
+    {
+      "name": "CopperHoe",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_hoe"
+    },
+    {
+      "name": "CopperPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_pickaxe_recipe"
+    },
+    {
+      "name": "CopperAxeRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_axe_recipe"
+    },
+    {
+      "name": "CopperSwordRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_sword_recipe"
+    },
+    {
+      "name": "CopperShovelRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_shovel_recipe"
+    },
+    {
+      "name": "CopperHoeRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_hoe_recipe"
+    },
+    {
+      "name": "CopperArmor",
+      "type": "armor",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor"
+    },
+    {
+      "name": "CopperArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_helmet_recipe"
+    },
+    {
+      "name": "CopperArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_body_recipe"
+    },
+    {
+      "name": "CopperArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_leggings_recipe"
+    },
+    {
+      "name": "CopperArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_boots_recipe"
+    },
+    {
+      "name": "Lightning",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightning"
+    },
+    {
+      "name": "EvilEssenceRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evil_essence_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EvilEssence",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evil_essence"
+    },
+    {
+      "name": "SoundFromSilenceGUI",
+      "type": "gui",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sound_from_silence_gui"
+    },
+    {
+      "name": "EvilEnergyUnit",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evil_energy_unit"
+    },
+    {
+      "name": "SoundFromSilenceUpdateTick",
+      "type": "procedure",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sound_from_silence_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoundFromSilence",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sound_from_silence"
+    },
+    {
+      "name": "EvilEssenceRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evil_essence_recipe"
+    },
+    {
+      "name": "SoundFromSilenceRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sound_from_silence_recipe"
+    },
+    {
+      "name": "AncientDustFuel",
+      "type": "fuel",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_dust_fuel"
+    },
+    {
+      "name": "EmptyDimensionMedium",
+      "type": "item",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "empty_dimension_medium"
+    },
+    {
+      "name": "UnexpectedFluid",
+      "type": "fluid",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unexpected_fluid"
+    },
+    {
+      "name": "NothingNether",
+      "type": "tab",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nothing_nether"
+    },
+    {
+      "name": "NothingEnd",
+      "type": "tab",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nothing_end"
+    },
+    {
+      "name": "NothingLinnea",
+      "type": "tab",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nothing_linnea"
+    },
+    {
+      "name": "NetherDimensionMedium",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_dimension_medium"
+    },
+    {
+      "name": "EndDimensionMedium",
+      "type": "item",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "end_dimension_medium"
+    },
+    {
+      "name": "LinneaDimensionMedium",
+      "type": "item",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "linnea_dimension_medium"
+    },
+    {
+      "name": "NetherrackPickaxe",
+      "type": "tool",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherrack_pickaxe"
+    },
+    {
+      "name": "NetherrackAxe",
+      "type": "tool",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherrack_axe"
+    },
+    {
+      "name": "NetherrackSword",
+      "type": "tool",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherrack_sword"
+    },
+    {
+      "name": "NetherrackShovel",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherrack_shovel"
+    },
+    {
+      "name": "NetherrackHoe",
+      "type": "tool",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherrack_hoe"
+    },
+    {
+      "name": "NetherrackPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherrack_pickaxe_recipe"
+    },
+    {
+      "name": "NetherrackAxeRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherrack_axe_recipe"
+    },
+    {
+      "name": "NetherrackSwordRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherrack_sword_recipe"
+    },
+    {
+      "name": "NetherrackShovelRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherrack_shovel_recipe"
+    },
+    {
+      "name": "NetherrackHoeRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherrack_hoe_recipe"
+    },
+    {
+      "name": "EmptyDMRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "empty_dm_recipe"
+    },
+    {
+      "name": "NetherDMRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_dm_recipe"
+    },
+    {
+      "name": "NetherPortalRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_portal_recipe"
+    },
+    {
+      "name": "EndDMRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "end_dm_recipe"
+    },
+    {
+      "name": "LinneaDMRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "linnea_dm_recipe"
+    },
+    {
+      "name": "PaperBlock",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paper_block"
+    },
+    {
+      "name": "LinneaBiome",
+      "type": "biome",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "linnea_biome"
+    },
+    {
+      "name": "Linnea",
+      "type": "dimension",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "linnea"
+    },
+    {
+      "name": "WorldCore",
+      "type": "item",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "world_core"
+    },
+    {
+      "name": "WorldCoreRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "world_core_recipe"
+    },
+    {
+      "name": "GODT",
+      "type": "procedure",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "godt",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DimensionTeleporterGUI",
+      "type": "gui",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_teleporter_gui"
+    },
+    {
+      "name": "DimensionTelporter",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_telporter"
+    },
+    {
+      "name": "DimensionTeleporterRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_teleporter_recipe"
+    },
+    {
+      "name": "RespawnCommandExecuted",
+      "type": "procedure",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "respawn_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Respawn",
+      "type": "command",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "respawn"
+    },
+    {
+      "name": "Explosion",
+      "type": "enchantment",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "explosion"
+    },
+    {
+      "name": "IonRailgunWhileBulletFlyingTick",
+      "type": "procedure",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ion_railgun_while_bullet_flying_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IonRailgun",
+      "type": "gun",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ion_railgun"
+    },
+    {
+      "name": "IonRailgunRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ion_railgun_recipe"
+    },
+    {
+      "name": "TechnetiumIngot",
+      "type": "item",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_ingot"
+    },
+    {
+      "name": "TechnetiumOre",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_ore"
+    },
+    {
+      "name": "TechnetiumOreBlock",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_ore_block"
+    },
+    {
+      "name": "TechnetiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_ore_block_recipe"
+    },
+    {
+      "name": "TechnetiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_block_ore_recipe"
+    },
+    {
+      "name": "TechnetiumOreSmelting",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_ore_smelting"
+    },
+    {
+      "name": "TechnetiumPickaxe",
+      "type": "tool",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_pickaxe"
+    },
+    {
+      "name": "TechnetiumAxe",
+      "type": "tool",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_axe"
+    },
+    {
+      "name": "TechnetiumSword",
+      "type": "tool",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_sword"
+    },
+    {
+      "name": "TechnetiumShovel",
+      "type": "tool",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_shovel"
+    },
+    {
+      "name": "TechnetiumHoe",
+      "type": "tool",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_hoe"
+    },
+    {
+      "name": "TechnetiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_pickaxe_recipe"
+    },
+    {
+      "name": "TechnetiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_axe_recipe"
+    },
+    {
+      "name": "TechnetiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_sword_recipe"
+    },
+    {
+      "name": "TechnetiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_shovel_recipe"
+    },
+    {
+      "name": "TechnetiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_hoe_recipe"
+    },
+    {
+      "name": "TechnetiumArmor",
+      "type": "armor",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TechnetiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_armor_helmet_recipe"
+    },
+    {
+      "name": "TechnetiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_armor_body_recipe"
+    },
+    {
+      "name": "TechnetiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_armor_leggings_recipe"
+    },
+    {
+      "name": "TechnetiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_armor_boots_recipe"
+    },
+    {
+      "name": "TechnetiumSRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_s_recipe"
+    },
+    {
+      "name": "TechnetiumArmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_armor_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StoneHammer",
+      "type": "tool",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_hammer"
+    },
+    {
+      "name": "StoneHammerRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_hammer_recipe"
+    },
+    {
+      "name": "TheEaster",
+      "type": "musicdisc",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_easter"
+    },
+    {
+      "name": "Copper",
+      "type": "tag",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper"
+    },
+    {
+      "name": "StoneSaw",
+      "type": "tool",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_saw"
+    },
+    {
+      "name": "StoneSawRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_saw_recipe"
+    },
+    {
+      "name": "StoneBoltDriver",
+      "type": "tool",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_bolt_driver"
+    },
+    {
+      "name": "StoneKnife",
+      "type": "tool",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_knife"
+    },
+    {
+      "name": "StoneKnifeRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_knife_recipe"
+    },
+    {
+      "name": "ToolHandle",
+      "type": "item",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_handle"
+    },
+    {
+      "name": "ToolHandleRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_handle_recipe"
+    },
+    {
+      "name": "StoneBoltDriverRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_bolt_driver_recipe"
+    },
+    {
+      "name": "StonePlate",
+      "type": "item",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_plate"
+    },
+    {
+      "name": "StoneBendPlate",
+      "type": "item",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_bend_plate"
+    },
+    {
+      "name": "StoneFoldPlate",
+      "type": "item",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_fold_plate"
+    },
+    {
+      "name": "StoneDoubleIngot",
+      "type": "item",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_double_ingot"
+    },
+    {
+      "name": "StoneCompressedPlate",
+      "type": "item",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_compressed_plate"
+    },
+    {
+      "name": "StoneRing",
+      "type": "item",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_ring"
+    },
+    {
+      "name": "StoneFile",
+      "type": "tool",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_file"
+    },
+    {
+      "name": "StonePlateRecipe",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_plate_recipe"
+    },
+    {
+      "name": "GumWood",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_wood"
+    },
+    {
+      "name": "GumLog",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_log"
+    },
+    {
+      "name": "GumPlanks",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_planks"
+    },
+    {
+      "name": "GumLeaves",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_leaves"
+    },
+    {
+      "name": "GumStairs",
+      "type": "block",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_stairs"
+    },
+    {
+      "name": "GumSlab",
+      "type": "block",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_slab"
+    },
+    {
+      "name": "GumFence",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_fence"
+    },
+    {
+      "name": "GumFenceGate",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_fence_gate"
+    },
+    {
+      "name": "GumWoodRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_wood_recipe"
+    },
+    {
+      "name": "GumPlanksRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_planks_recipe"
+    },
+    {
+      "name": "GumStairsRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_stairs_recipe"
+    },
+    {
+      "name": "GumSlabRecipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_slab_recipe"
+    },
+    {
+      "name": "GumFenceRecipe",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_fence_recipe"
+    },
+    {
+      "name": "GumFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_fence_gate_recipe"
+    },
+    {
+      "name": "GumStickRecipe",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_stick_recipe"
+    },
+    {
+      "name": "Gum",
+      "type": "item",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum"
+    },
+    {
+      "name": "DriedGum",
+      "type": "item",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dried_gum"
+    },
+    {
+      "name": "GumRecipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gum_recipe"
+    },
+    {
+      "name": "DriedGumRecipe",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dried_gum_recipe"
+    },
+    {
+      "name": "CopperString",
+      "type": "item",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_string"
+    },
+    {
+      "name": "StoneFileRecipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_file_recipe"
+    },
+    {
+      "name": "GoldString",
+      "type": "item",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_string"
+    },
+    {
+      "name": "IronString",
+      "type": "item",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_string"
+    },
+    {
+      "name": "TechnetiumString",
+      "type": "item",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_string"
+    },
+    {
+      "name": "StoneBendPlateRecipe",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_bend_plate_recipe"
+    },
+    {
+      "name": "StoneFoldPlateRecipe",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_fold_plate_recipe"
+    },
+    {
+      "name": "StoneRingRecipe",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_ring_recipe"
+    },
+    {
+      "name": "PaperRing",
+      "type": "item",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paper_ring"
+    },
+    {
+      "name": "PaperRingRecipe",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paper_ring_recipe"
+    },
+    {
+      "name": "CopperStringRecipe",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_string_recipe"
+    },
+    {
+      "name": "GoldStringRecipe",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_string_recipe"
+    },
+    {
+      "name": "IronStringRecipe",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_string_recipe"
+    },
+    {
+      "name": "TechnetiumStringRecipe",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_string_recipe"
+    },
+    {
+      "name": "MotorSimple",
+      "type": "item",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "motor_simple"
+    },
+    {
+      "name": "MotorSimpleRecipe",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "motor_simple_recipe"
+    },
+    {
+      "name": "Torbernite",
+      "type": "item",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "torbernite"
+    },
+    {
+      "name": "TorberniteOre",
+      "type": "block",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "torbernite_ore"
+    },
+    {
+      "name": "TorberniteBlock",
+      "type": "block",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "torbernite_block"
+    },
+    {
+      "name": "TorberniteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "torbernite_ore_block_recipe"
+    },
+    {
+      "name": "TorberniteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "torbernite_block_ore_recipe"
+    },
+    {
+      "name": "TorberniteOreSmelting",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "torbernite_ore_smelting"
+    },
+    {
+      "name": "Ventilator",
+      "type": "item",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ventilator"
+    },
+    {
+      "name": "StoneDoubleIngotRecipe",
+      "type": "recipe",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_double_ingot_recipe"
+    },
+    {
+      "name": "StoneCompressedPlateRecipe",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_compressed_plate_recipe"
+    },
+    {
+      "name": "MachineCasingSimple",
+      "type": "block",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "machine_casing_simple"
+    },
+    {
+      "name": "MachineCasingSimpleRecipe",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "machine_casing_simple_recipe"
+    },
+    {
+      "name": "StoneRod",
+      "type": "item",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_rod"
+    },
+    {
+      "name": "StoneRodRecipe",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_rod_recipe"
+    },
+    {
+      "name": "MillStone",
+      "type": "item",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mill_stone"
+    },
+    {
+      "name": "MillStoneRecipe",
+      "type": "recipe",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mill_stone_recipe"
+    },
+    {
+      "name": "Filter",
+      "type": "item",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "filter"
+    },
+    {
+      "name": "FilterRecipe",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "filter_recipe"
+    },
+    {
+      "name": "GrinderSimple",
+      "type": "block",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grinder_simple"
+    },
+    {
+      "name": "GrinderSimpleRecipe",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grinder_simple_recipe"
+    },
+    {
+      "name": "TinIngot",
+      "type": "item",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ingot"
+    },
+    {
+      "name": "TinOre",
+      "type": "block",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore"
+    },
+    {
+      "name": "TinBlock",
+      "type": "block",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_block"
+    },
+    {
+      "name": "TinOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore_block_recipe"
+    },
+    {
+      "name": "TinBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_block_ore_recipe"
+    },
+    {
+      "name": "TinOreSmelting",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore_smelting"
+    },
+    {
+      "name": "GrinderSimpleGUI",
+      "type": "gui",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grinder_simple_gui"
+    },
+    {
+      "name": "TinString",
+      "type": "item",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_string"
+    },
+    {
+      "name": "GeneratorSimple",
+      "type": "item",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "generator_simple"
+    },
+    {
+      "name": "GeneratorSimpleRecipe",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "generator_simple_recipe"
+    },
+    {
+      "name": "TinStringRecipe",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_string_recipe"
+    },
+    {
+      "name": "EvilGeneratorGUI",
+      "type": "gui",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evil_generator_gui"
+    },
+    {
+      "name": "EvilGeneratorSimpleUpdateTick",
+      "type": "procedure",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evil_generator_simple_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EvilGeneratorSimple",
+      "type": "block",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evil_generator_simple"
+    },
+    {
+      "name": "IronDust",
+      "type": "item",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_dust"
+    },
+    {
+      "name": "TechnetiumDust",
+      "type": "item",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technetium_dust"
+    },
+    {
+      "name": "TinDust",
+      "type": "item",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_dust"
+    },
+    {
+      "name": "CopperDust",
+      "type": "item",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_dust"
+    },
+    {
+      "name": "GrinderSimpleUpdateTick",
+      "type": "procedure",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grinder_simple_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BronzeDust",
+      "type": "item",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_dust"
+    },
+    {
+      "name": "BronzeDustRecipe",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_dust_recipe"
+    },
+    {
+      "name": "BronzeIngot",
+      "type": "item",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_ingot"
+    },
+    {
+      "name": "BronzeNugget",
+      "type": "item",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_nugget"
+    },
+    {
+      "name": "BronzeIngotRecipe",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_ingot_recipe"
+    },
+    {
+      "name": "BronzeNuggetRecipe",
+      "type": "recipe",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_nugget_recipe"
+    },
+    {
+      "name": "BronzeNuggetSmelting",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_nugget_smelting"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "the_easter",
+      "files": [
+        "rs-crystal_-_fu_huo_jie__the_easter"
+      ],
+      "category": "master"
+    },
+    {
+      "name": "the_mystery",
+      "files": [
+        "rs-crystal_-_mi_jing__the_mysterywei_fa_bu__"
+      ],
+      "category": "master"
+    },
+    {
+      "name": "the_samurai",
+      "files": [
+        "rs-crystal_-_wu_shi__the_samurai"
+      ],
+      "category": "master"
+    },
+    {
+      "name": "the_romance",
+      "files": [
+        "rs-crystal_-_xin_dong__the_romance"
+      ],
+      "category": "master"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.you_can_explain_nothing.the_easter": "The Easter",
+      "item.you_can_explain_nothing.linnea": "Linnea Portal Igniter",
+      "item.you_can_explain_nothing.dried_gum": "Dried Gum",
+      "block.you_can_explain_nothing.tin_block": "Block of Tin",
+      "block.you_can_explain_nothing.gum_slab": "Gum Slab",
+      "item.you_can_explain_nothing.ventilator": "Ventilator",
+      "item.you_can_explain_nothing.ancient_dust": "Ancient Dust",
+      "item.you_can_explain_nothing.netherrack_shovel": "Netherrack Shovel",
+      "block.you_can_explain_nothing.torbernite_ore": "Torbernite Ore",
+      "itemGroup.tabnothing_nether": "Nothing: Nether",
+      "block.you_can_explain_nothing.dimension_telporter": "Dimension Telporter",
+      "block.you_can_explain_nothing.ancient_dust_block": "Ancient Dust Block",
+      "item.you_can_explain_nothing.iron_string": "Iron String",
+      "item.you_can_explain_nothing.tourmaline_shovel": "Tourmaline Shovel",
+      "item.you_can_explain_nothing.iron_dust": "Iron Dust",
+      "item.you_can_explain_nothing.technetium_armor_chestplate": "Technetium Chestplate",
+      "item.you_can_explain_nothing.technetium_armor_helmet": "Technetium Helmet",
+      "item.you_can_explain_nothing.copper_armor_leggings": "Copper Leggings",
+      "fluid.unexpected_fluid": "UnexpectedFluid",
+      "item.you_can_explain_nothing.stone_bolt_driver": "Stone Bolt Driver",
+      "item.you_can_explain_nothing.technetium_shovel": "Technetium Shovel",
+      "item.you_can_explain_nothing.copper_axe": "Copper Axe",
+      "item.you_can_explain_nothing.tourmaline_pickaxe": "Tourmaline Pickaxe",
+      "item.you_can_explain_nothing.nether_dimension_medium": "Nether Dimension Medium",
+      "item.you_can_explain_nothing.netherrack_axe": "Netherrack Axe",
+      "block.you_can_explain_nothing.copper_ore": "Copper Ore",
+      "item.you_can_explain_nothing.stone_double_ingot": "Stone Double Ingot",
+      "block.you_can_explain_nothing.gum_log": "Gum Log",
+      "item.you_can_explain_nothing.tool_handle": "Tool Handle",
+      "itemGroup.tabnothing_end": "Nothing: End",
+      "block.you_can_explain_nothing.gum_stairs": "Gum Stairs",
+      "block.you_can_explain_nothing.gum_leaves": "Gum Leaves",
+      "item.you_can_explain_nothing.tourmaline_armor_helmet": "Tourmaline Helmet",
+      "item.you_can_explain_nothing.tourmaline_armor_leggings": "Tourmaline Leggings",
+      "item.you_can_explain_nothing.linnea_dimension_medium": "Linnea Dimension Medium",
+      "item.you_can_explain_nothing.stone_bend_plate": "Stone Bend Plate",
+      "block.you_can_explain_nothing.paper_block": "Paper Block",
+      "item.you_can_explain_nothing.netherrack_pickaxe": "Netherrack Pickaxe",
+      "item.you_can_explain_nothing.technetium_string": "Technetium String",
+      "item.you_can_explain_nothing.technetium_pickaxe": "Technetium Pickaxe",
+      "block.you_can_explain_nothing.tourmaline_ore_block": "Block of Tourmaline",
+      "item.you_can_explain_nothing.copper_string": "Copper String",
+      "item.you_can_explain_nothing.stone_hammer": "Stone Hammer",
+      "item.you_can_explain_nothing.copper_shovel": "Copper Shovel",
+      "item.you_can_explain_nothing.technetium_ingot": "Technetium",
+      "item.you_can_explain_nothing.stone_compressed_plate": "Stone Compressed Plate",
+      "item.you_can_explain_nothing.copper_hoe": "Copper Hoe",
+      "item.you_can_explain_nothing.netherrack_hoe": "Netherrack Hoe",
+      "item.you_can_explain_nothing.command_wand": "Command Wand",
+      "item.you_can_explain_nothing.the_easter.desc": "From DL",
+      "block.you_can_explain_nothing.copper_ore_block": "Block of Copper",
+      "item.you_can_explain_nothing.tin_dust": "Tin Dust",
+      "item.you_can_explain_nothing.evil_essence": "Evil Essence",
+      "item.you_can_explain_nothing.tourmaline_sword": "Tourmaline Sword",
+      "block.you_can_explain_nothing.technetium_ore_block": "Block of Technetium",
+      "item.you_can_explain_nothing.tourmaline_axe": "Tourmaline Axe",
+      "item.you_can_explain_nothing.end_dimension_medium": "End Dimension Medium",
+      "item.you_can_explain_nothing.ion_railgun": "Ion Railgun",
+      "item.you_can_explain_nothing.netherrack_sword": "Netherrack Sword",
+      "item.you_can_explain_nothing.copper_ingot": "Copper",
+      "item.you_can_explain_nothing.copper_armor_boots": "Copper Boots",
+      "item.you_can_explain_nothing.torbernite": "Torbernite",
+      "item.you_can_explain_nothing.world_core": "World Core",
+      "biome.you_can_explain_nothing.linnea_biome": "Linnea Biome",
+      "block.you_can_explain_nothing.tourmaline_ore": "Tourmaline Ore",
+      "item.you_can_explain_nothing.generator_simple": "Generator (simple)",
+      "item.you_can_explain_nothing.stone_file": "Stone File",
+      "block.you_can_explain_nothing.evil_generator_simple": "Evil Generator (simple) [TODO]",
+      "item.you_can_explain_nothing.paper_ring": "Paper Ring",
+      "item.you_can_explain_nothing.tourmaline_armor_chestplate": "Tourmaline Chestplate",
+      "enchantment.you_can_explain_nothing.explosion": "Explosion",
+      "item.you_can_explain_nothing.technetium_dust": "Technetium Dust",
+      "block.you_can_explain_nothing.gum_fence_gate": "Gum Fence Gate",
+      "item.you_can_explain_nothing.rpg": "RPG",
+      "item.you_can_explain_nothing.stone_saw": "Stone Saw",
+      "block.you_can_explain_nothing.torbernite_block": "Block of Torbernite",
+      "block.you_can_explain_nothing.gum_planks": "Gum Planks",
+      "item.you_can_explain_nothing.technetium_armor_leggings": "Technetium Leggings",
+      "block.you_can_explain_nothing.gum_wood": "Gum Wood",
+      "block.you_can_explain_nothing.machine_casing_simple": "Machine Casing Simple",
+      "item.you_can_explain_nothing.tourmaline_gem": "Tourmaline",
+      "block.you_can_explain_nothing.grinder_simple": "Grinder (simple)",
+      "item.you_can_explain_nothing.technetium_armor_boots": "Technetium Boots",
+      "item.you_can_explain_nothing.stone_rod": "Stone Rod",
+      "item.you_can_explain_nothing.gold_string": "Gold String",
+      "item.you_can_explain_nothing.bronze_ingot": "Bronze Ingot",
+      "item.you_can_explain_nothing.technetium_sword": "Technetium Sword",
+      "item.you_can_explain_nothing.stone_knife": "Stone Knife",
+      "block.you_can_explain_nothing.gum_fence": "Gum Fence",
+      "item.you_can_explain_nothing.gc_201": "GC201",
+      "item.you_can_explain_nothing.copper_dust": "Copper Dust",
+      "item.you_can_explain_nothing.bronze_nugget": "Bronze Nugget",
+      "item.you_can_explain_nothing.tourmaline_hoe": "Tourmaline Hoe",
+      "item.you_can_explain_nothing.technetium_hoe": "Technetium Hoe",
+      "item.you_can_explain_nothing.stone_ring": "Stone Ring",
+      "item.you_can_explain_nothing.mill_stone": "Mill Stone",
+      "item.you_can_explain_nothing.copper_armor_helmet": "Copper Helmet",
+      "item.you_can_explain_nothing.stone_plate": "Stone Plate",
+      "block.you_can_explain_nothing.sound_from_silence": "Sound From Silence",
+      "item.you_can_explain_nothing.copper_armor_chestplate": "Copper Chestplate",
+      "item.you_can_explain_nothing.evil_energy_unit": "Evil Energy Unit",
+      "item.you_can_explain_nothing.copper_sword": "Copper Sword",
+      "item.you_can_explain_nothing.stone_fold_plate": "Stone Fold Plate",
+      "item.you_can_explain_nothing.tin_ingot": "Tin",
+      "item.you_can_explain_nothing.tin_string": "Tin String",
+      "item.you_can_explain_nothing.technetium_axe": "Technetium Axe",
+      "item.you_can_explain_nothing.filter": "Filter",
+      "item.you_can_explain_nothing.motor_simple": "Motor (simple)",
+      "item.you_can_explain_nothing.copper_pickaxe": "Copper Pickaxe",
+      "item.you_can_explain_nothing.bronze_dust": "Bronze Dust",
+      "item.you_can_explain_nothing.tourmaline_armor_boots": "Tourmaline Boots",
+      "itemGroup.tabnothing_surface": "Nothing: Surface",
+      "block.you_can_explain_nothing.tin_ore": "Tin Ore",
+      "item.you_can_explain_nothing.lightning": "Lightning",
+      "item.you_can_explain_nothing.empty_dimension_medium": "Empty Dimension Medium",
+      "block.you_can_explain_nothing.technetium_ore": "Technetium Ore",
+      "item.you_can_explain_nothing.unexpected_fluid_bucket": "UnexpectedFluid Bucket",
+      "item.you_can_explain_nothing.gum": "Gum",
+      "itemGroup.tabnothing_linnea": "Nothing: Linnea"
+    },
+    "zh_cn": {
+      "item.you_can_explain_nothing.linnea": "林旎",
+      "item.you_can_explain_nothing.the_easter": "复活节",
+      "item.you_can_explain_nothing.dried_gum": "干橡胶",
+      "block.you_can_explain_nothing.tin_block": "锡块",
+      "block.you_can_explain_nothing.gum_slab": "橡胶木台阶",
+      "item.you_can_explain_nothing.ventilator": "换气扇",
+      "item.you_can_explain_nothing.ancient_dust": "远古尘埃",
+      "item.you_can_explain_nothing.netherrack_shovel": "地狱岩锹",
+      "block.you_can_explain_nothing.torbernite_ore": "铜铀云母矿石",
+      "block.you_can_explain_nothing.dimension_telporter": "维度传送器",
+      "itemGroup.tabnothing_nether": "奇境：下界",
+      "block.you_can_explain_nothing.ancient_dust_block": "远古尘埃块",
+      "item.you_can_explain_nothing.iron_string": "铁丝",
+      "item.you_can_explain_nothing.tourmaline_shovel": "电气石铲",
+      "item.you_can_explain_nothing.iron_dust": "铁粉",
+      "item.you_can_explain_nothing.technetium_armor_helmet": "锝帽子",
+      "item.you_can_explain_nothing.technetium_armor_chestplate": "锝胸甲",
+      "item.you_can_explain_nothing.copper_armor_leggings": "铜护腿",
+      "fluid.unexpected_fluid": "未曾设想的流体",
+      "item.you_can_explain_nothing.stone_bolt_driver": "石质螺丝刀",
+      "item.you_can_explain_nothing.technetium_shovel": "锝铲",
+      "item.you_can_explain_nothing.copper_axe": "铜斧",
+      "item.you_can_explain_nothing.tourmaline_pickaxe": "电气石镐",
+      "item.you_can_explain_nothing.nether_dimension_medium": "维度媒介：下界",
+      "item.you_can_explain_nothing.netherrack_axe": "地狱岩斧",
+      "block.you_can_explain_nothing.copper_ore": "铜矿石",
+      "item.you_can_explain_nothing.stone_double_ingot": "石双重锭",
+      "block.you_can_explain_nothing.gum_log": "橡胶原木",
+      "item.you_can_explain_nothing.tool_handle": "工具手柄",
+      "itemGroup.tabnothing_end": "契机：末地",
+      "block.you_can_explain_nothing.gum_stairs": "橡胶楼梯",
+      "block.you_can_explain_nothing.gum_leaves": "橡胶树叶",
+      "item.you_can_explain_nothing.tourmaline_armor_helmet": "电气石头盔",
+      "item.you_can_explain_nothing.tourmaline_armor_leggings": "电气石护腿",
+      "item.you_can_explain_nothing.linnea_dimension_medium": "维度媒介：林旎",
+      "item.you_can_explain_nothing.stone_bend_plate": "石弯曲铁板",
+      "block.you_can_explain_nothing.paper_block": "纸块",
+      "item.you_can_explain_nothing.netherrack_pickaxe": "地狱岩镐",
+      "item.you_can_explain_nothing.technetium_string": "锝丝",
+      "item.you_can_explain_nothing.technetium_pickaxe": "锝镐",
+      "block.you_can_explain_nothing.tourmaline_ore_block": "电气石晶体块",
+      "item.you_can_explain_nothing.copper_string": "铜丝",
+      "item.you_can_explain_nothing.stone_hammer": "石锤",
+      "item.you_can_explain_nothing.copper_shovel": "铜铲子",
+      "item.you_can_explain_nothing.technetium_ingot": "锝锭",
+      "item.you_can_explain_nothing.stone_compressed_plate": "石压缩板",
+      "item.you_can_explain_nothing.copper_hoe": "铜锄头",
+      "item.you_can_explain_nothing.netherrack_hoe": "地狱岩锄头",
+      "item.you_can_explain_nothing.command_wand": "命令之杖【TODO】",
+      "item.you_can_explain_nothing.the_easter.desc": "跳舞的线原BGM",
+      "block.you_can_explain_nothing.copper_ore_block": "桶块",
+      "item.you_can_explain_nothing.tin_dust": "锡粉",
+      "item.you_can_explain_nothing.evil_essence": "罪恶精华",
+      "item.you_can_explain_nothing.tourmaline_sword": "电气石剑",
+      "block.you_can_explain_nothing.technetium_ore_block": "锝块",
+      "item.you_can_explain_nothing.tourmaline_axe": "电气石斧",
+      "item.you_can_explain_nothing.end_dimension_medium": "维度媒介：末地",
+      "item.you_can_explain_nothing.ion_railgun": "离子轨道炮",
+      "item.you_can_explain_nothing.netherrack_sword": "地狱炎剑",
+      "item.you_can_explain_nothing.copper_armor_boots": "铜靴子",
+      "item.you_can_explain_nothing.copper_ingot": "铜锭",
+      "item.you_can_explain_nothing.torbernite": "铜铀云母",
+      "item.you_can_explain_nothing.world_core": "世界核心",
+      "biome.you_can_explain_nothing.linnea_biome": "林旎",
+      "block.you_can_explain_nothing.tourmaline_ore": "电气石矿石",
+      "item.you_can_explain_nothing.generator_simple": "发电机 （简易）",
+      "item.you_can_explain_nothing.stone_file": "石质锉刀",
+      "block.you_can_explain_nothing.evil_generator_simple": "罪恶发电机[TODO]",
+      "item.you_can_explain_nothing.paper_ring": "纸环",
+      "item.you_can_explain_nothing.tourmaline_armor_chestplate": "电气石胸甲",
+      "enchantment.you_can_explain_nothing.explosion": "爆炸",
+      "item.you_can_explain_nothing.technetium_dust": "锝粉",
+      "block.you_can_explain_nothing.gum_fence_gate": "橡胶木栅栏门",
+      "item.you_can_explain_nothing.rpg": "RPG",
+      "item.you_can_explain_nothing.stone_saw": "石质锯",
+      "block.you_can_explain_nothing.torbernite_block": "铜铀云母晶体块",
+      "block.you_can_explain_nothing.gum_planks": "橡胶木板",
+      "item.you_can_explain_nothing.technetium_armor_leggings": "锝护腿",
+      "block.you_can_explain_nothing.gum_wood": "橡胶木",
+      "block.you_can_explain_nothing.machine_casing_simple": "机器外壳（简易）",
+      "item.you_can_explain_nothing.tourmaline_gem": "电气石晶体",
+      "block.you_can_explain_nothing.grinder_simple": "磨粉机 （简易）",
+      "item.you_can_explain_nothing.technetium_armor_boots": "锝靴子",
+      "item.you_can_explain_nothing.stone_rod": "石棍",
+      "item.you_can_explain_nothing.gold_string": "金丝",
+      "item.you_can_explain_nothing.bronze_ingot": "青铜锭",
+      "item.you_can_explain_nothing.technetium_sword": "锝剑",
+      "item.you_can_explain_nothing.stone_knife": "石质小刀",
+      "block.you_can_explain_nothing.gum_fence": "橡胶木栅栏",
+      "item.you_can_explain_nothing.gc_201": "GC201",
+      "item.you_can_explain_nothing.copper_dust": "铜粉",
+      "item.you_can_explain_nothing.bronze_nugget": "青铜粒",
+      "item.you_can_explain_nothing.tourmaline_hoe": "电气石锄头",
+      "item.you_can_explain_nothing.technetium_hoe": "锝锄头",
+      "item.you_can_explain_nothing.stone_ring": "石质环",
+      "item.you_can_explain_nothing.mill_stone": "磨石",
+      "item.you_can_explain_nothing.copper_armor_helmet": "铜帽子",
+      "item.you_can_explain_nothing.stone_plate": "石板",
+      "block.you_can_explain_nothing.sound_from_silence": "远古之声",
+      "item.you_can_explain_nothing.copper_armor_chestplate": "铜胸甲",
+      "item.you_can_explain_nothing.evil_energy_unit": "罪恶能量单元",
+      "item.you_can_explain_nothing.copper_sword": "铜剑",
+      "item.you_can_explain_nothing.stone_fold_plate": "石折叠板",
+      "item.you_can_explain_nothing.tin_ingot": "锡锭",
+      "item.you_can_explain_nothing.tin_string": "锡丝",
+      "item.you_can_explain_nothing.technetium_axe": "锝斧",
+      "item.you_can_explain_nothing.filter": "滤网",
+      "item.you_can_explain_nothing.motor_simple": "马达（简易）",
+      "item.you_can_explain_nothing.copper_pickaxe": "铜镐",
+      "item.you_can_explain_nothing.bronze_dust": "青铜粉",
+      "item.you_can_explain_nothing.tourmaline_armor_boots": "电气石靴子",
+      "itemGroup.tabnothing_surface": "契机：主世界、通用",
+      "block.you_can_explain_nothing.tin_ore": "锡矿石",
+      "item.you_can_explain_nothing.lightning": "闪电",
+      "item.you_can_explain_nothing.empty_dimension_medium": "空的维度媒介",
+      "block.you_can_explain_nothing.technetium_ore": "锝矿石",
+      "item.you_can_explain_nothing.unexpected_fluid_bucket": "未曾设想的流体之桶",
+      "item.you_can_explain_nothing.gum": "原始橡胶",
+      "itemGroup.tabnothing_linnea": "契机：林旎"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "you_can_explain_nothing",
+    "modName": "You Can Explain Nothing.",
+    "version": "1.2.0",
+    "author": "FXGstudio, RESPECTIFUL_UR",
+    "websiteURL": "https://mcbbs.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.14.4",
+    "credits": "by FXGstudio \u0026 RESPECTIFUL_UR",
+    "modElementsPackage": "net.mcbbs.youcanexplainnothing",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000543719
+}

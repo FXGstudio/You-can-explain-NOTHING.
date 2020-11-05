@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "andesite",
+        "1": "furnace_top",
+        "2": "furnace_side",
+        "3": "furnace_front",
+        "4": "magma"
+      },
+      "name": "default"
+    }
+  }
+}
