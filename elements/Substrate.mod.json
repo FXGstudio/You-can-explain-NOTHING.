@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "tin_ingot",
+    "texture": "substrate",
     "customModelName": "Normal",
-    "name": "Tin",
+    "name": "Substrate",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:NothingSurface"

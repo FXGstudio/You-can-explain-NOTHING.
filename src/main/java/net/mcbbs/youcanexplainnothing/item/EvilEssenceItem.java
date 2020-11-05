@@ -10,12 +10,12 @@ import net.minecraft.util.ActionResultType;
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemUseContext;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.block.BlockState;
 
 import net.mcbbs.youcanexplainnothing.procedures.EvilEssenceRightClickedOnBlockProcedure;
+import net.mcbbs.youcanexplainnothing.itemgroup.NothingSurfaceItemGroup;
 import net.mcbbs.youcanexplainnothing.YouCanExplainNothingModElements;
 
 import java.util.Map;
@@ -35,7 +35,7 @@ public class EvilEssenceItem extends YouCanExplainNothingModElements.ModElement 
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxDamage(16).rarity(Rarity.COMMON));
+			super(new Item.Properties().group(NothingSurfaceItemGroup.tab).maxDamage(16).rarity(Rarity.COMMON));
 			setRegistryName("evil_essence");
 		}
 

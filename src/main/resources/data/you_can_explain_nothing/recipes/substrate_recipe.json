@@ -1,0 +1,32 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:gold_string"
+    },
+    "1": {
+      "item": "minecraft:purple_dye"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:gold_string"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:dried_gum"
+    },
+    "4": {
+      "item": "you_can_explain_nothing:stone_fold_plate"
+    },
+    "5": {
+      "item": "you_can_explain_nothing:dried_gum"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:substrate",
+    "count": 1
+  }
+}

@@ -12,11 +12,11 @@ import net.mcbbs.youcanexplainnothing.itemgroup.NothingSurfaceItemGroup;
 import net.mcbbs.youcanexplainnothing.YouCanExplainNothingModElements;
 
 @YouCanExplainNothingModElements.ModElement.Tag
-public class TinIngotItem extends YouCanExplainNothingModElements.ModElement {
-	@ObjectHolder("you_can_explain_nothing:tin_ingot")
+public class SubstrateItem extends YouCanExplainNothingModElements.ModElement {
+	@ObjectHolder("you_can_explain_nothing:substrate")
 	public static final Item block = null;
-	public TinIngotItem(YouCanExplainNothingModElements instance) {
-		super(instance, 199);
+	public SubstrateItem(YouCanExplainNothingModElements instance) {
+		super(instance, 222);
 	}
 
 	@Override
@@ -26,7 +26,7 @@ public class TinIngotItem extends YouCanExplainNothingModElements.ModElement {
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			super(new Item.Properties().group(NothingSurfaceItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
-			setRegistryName("tin_ingot");
+			setRegistryName("substrate");
 		}
 
 		@Override
