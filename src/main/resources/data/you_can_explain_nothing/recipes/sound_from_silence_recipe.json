@@ -16,13 +16,13 @@
       "item": "minecraft:magma_block"
     },
     "3": {
-      "item": "you_can_explain_nothing:sound_from_silence"
+      "tag": "forge:stone"
     },
     "4": {
-      "item": "you_can_explain_nothing:sound_from_silence"
+      "tag": "forge:stone"
     },
     "5": {
-      "item": "you_can_explain_nothing:sound_from_silence"
+      "tag": "forge:stone"
     }
   },
   "result": {

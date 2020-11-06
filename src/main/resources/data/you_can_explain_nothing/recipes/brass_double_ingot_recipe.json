@@ -1,0 +1,19 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "you_can_explain_nothing:bronze_hammer"
+    },
+    {
+      "item": "you_can_explain_nothing:brass_ingot"
+    },
+    {
+      "item": "you_can_explain_nothing:brass_ingot"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:brass_double_ingot",
+    "count": 1
+  }
+}

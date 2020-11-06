@@ -2519,6 +2519,78 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bronze_plate_recipe"
+    },
+    {
+      "name": "BronzeDoubleIngot",
+      "type": "item",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_double_ingot"
+    },
+    {
+      "name": "BrassDoubleIngot",
+      "type": "item",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_double_ingot"
+    },
+    {
+      "name": "BronzeCompressedPlate",
+      "type": "item",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_compressed_plate"
+    },
+    {
+      "name": "BrassCompressedPlate",
+      "type": "item",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_compressed_plate"
+    },
+    {
+      "name": "BronzeDoubleIngotRecipe",
+      "type": "recipe",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_double_ingot_recipe"
+    },
+    {
+      "name": "BrassDoubleIngotRecipe",
+      "type": "recipe",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_double_ingot_recipe"
+    },
+    {
+      "name": "BronzeCompressedPlateRecipe",
+      "type": "recipe",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_compressed_plate_recipe"
+    },
+    {
+      "name": "BrassCompressedPlateRecipe",
+      "type": "recipe",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_compressed_plate_recipe"
     }
   ],
   "variable_elements": [],
@@ -2554,8 +2626,8 @@
   ],
   "language_map": {
     "en_us": {
-      "item.you_can_explain_nothing.the_easter": "The Easter",
       "item.you_can_explain_nothing.linnea": "Linnea Portal Igniter",
+      "item.you_can_explain_nothing.the_easter": "The Easter",
       "item.you_can_explain_nothing.dried_gum": "Dried Gum",
       "block.you_can_explain_nothing.tin_block": "Block of Tin",
       "block.you_can_explain_nothing.gum_slab": "Gum Slab",
@@ -2573,11 +2645,12 @@
       "item.you_can_explain_nothing.technetium_armor_helmet": "Technetium Helmet",
       "item.you_can_explain_nothing.copper_armor_leggings": "Copper Leggings",
       "fluid.unexpected_fluid": "UnexpectedFluid",
+      "item.you_can_explain_nothing.brass_compressed_plate": "Brass Compressed Plate",
       "item.you_can_explain_nothing.stone_bolt_driver": "Stone Bolt Driver",
       "item.you_can_explain_nothing.technetium_shovel": "Technetium Shovel",
       "item.you_can_explain_nothing.copper_axe": "Copper Axe",
-      "item.you_can_explain_nothing.tourmaline_pickaxe": "Tourmaline Pickaxe",
       "item.you_can_explain_nothing.nether_dimension_medium": "Nether Dimension Medium",
+      "item.you_can_explain_nothing.tourmaline_pickaxe": "Tourmaline Pickaxe",
       "item.you_can_explain_nothing.netherrack_axe": "Netherrack Axe",
       "block.you_can_explain_nothing.copper_ore": "Copper Ore",
       "item.you_can_explain_nothing.stone_double_ingot": "Stone Double Ingot",
@@ -2598,6 +2671,7 @@
       "block.you_can_explain_nothing.tourmaline_ore_block": "Block of Tourmaline",
       "item.you_can_explain_nothing.copper_string": "Copper String",
       "item.you_can_explain_nothing.stone_hammer": "Stone Hammer",
+      "item.you_can_explain_nothing.bronze_compressed_plate": "Bronze Compressed Plate",
       "item.you_can_explain_nothing.zinc_ingot": "Zinc",
       "item.you_can_explain_nothing.copper_shovel": "Copper Shovel",
       "item.you_can_explain_nothing.technetium_ingot": "Technetium",
@@ -2650,6 +2724,7 @@
       "item.you_can_explain_nothing.technetium_sword": "Technetium Sword",
       "item.you_can_explain_nothing.stone_knife": "Stone Knife",
       "block.you_can_explain_nothing.gum_fence": "Gum Fence",
+      "item.you_can_explain_nothing.brass_double_ingot": "Brass Double Ingot",
       "item.you_can_explain_nothing.gc_201": "GC201",
       "item.you_can_explain_nothing.copper_dust": "Copper Dust",
       "item.you_can_explain_nothing.bronze_nugget": "Bronze Nugget",
@@ -2683,12 +2758,13 @@
       "item.you_can_explain_nothing.empty_dimension_medium": "Empty Dimension Medium",
       "block.you_can_explain_nothing.technetium_ore": "Technetium Ore",
       "item.you_can_explain_nothing.unexpected_fluid_bucket": "UnexpectedFluid Bucket",
+      "item.you_can_explain_nothing.bronze_double_ingot": "Bronze Double Ingot",
       "item.you_can_explain_nothing.gum": "Gum",
       "itemGroup.tabnothing_linnea": "Nothing: Linnea"
     },
     "zh_cn": {
-      "item.you_can_explain_nothing.the_easter": "复活节",
       "item.you_can_explain_nothing.linnea": "林旎",
+      "item.you_can_explain_nothing.the_easter": "复活节",
       "item.you_can_explain_nothing.dried_gum": "干橡胶",
       "block.you_can_explain_nothing.tin_block": "锡块",
       "block.you_can_explain_nothing.gum_slab": "橡胶木台阶",
@@ -2706,11 +2782,12 @@
       "item.you_can_explain_nothing.technetium_armor_chestplate": "锝胸甲",
       "item.you_can_explain_nothing.copper_armor_leggings": "铜护腿",
       "fluid.unexpected_fluid": "未曾设想的流体",
+      "item.you_can_explain_nothing.brass_compressed_plate": "Brass Compressed Plate",
       "item.you_can_explain_nothing.stone_bolt_driver": "石质螺丝刀",
       "item.you_can_explain_nothing.technetium_shovel": "锝铲",
       "item.you_can_explain_nothing.copper_axe": "铜斧",
-      "item.you_can_explain_nothing.nether_dimension_medium": "维度媒介：下界",
       "item.you_can_explain_nothing.tourmaline_pickaxe": "电气石镐",
+      "item.you_can_explain_nothing.nether_dimension_medium": "维度媒介：下界",
       "item.you_can_explain_nothing.netherrack_axe": "地狱岩斧",
       "block.you_can_explain_nothing.copper_ore": "铜矿石",
       "item.you_can_explain_nothing.stone_double_ingot": "石双重锭",
@@ -2731,6 +2808,7 @@
       "block.you_can_explain_nothing.tourmaline_ore_block": "电气石晶体块",
       "item.you_can_explain_nothing.copper_string": "铜丝",
       "item.you_can_explain_nothing.stone_hammer": "石锤",
+      "item.you_can_explain_nothing.bronze_compressed_plate": "Bronze Compressed Plate",
       "item.you_can_explain_nothing.zinc_ingot": "Zinc",
       "item.you_can_explain_nothing.copper_shovel": "铜铲子",
       "item.you_can_explain_nothing.technetium_ingot": "锝锭",
@@ -2783,6 +2861,7 @@
       "item.you_can_explain_nothing.technetium_sword": "锝剑",
       "item.you_can_explain_nothing.stone_knife": "石质小刀",
       "block.you_can_explain_nothing.gum_fence": "橡胶木栅栏",
+      "item.you_can_explain_nothing.brass_double_ingot": "Brass Double Ingot",
       "item.you_can_explain_nothing.gc_201": "GC201",
       "item.you_can_explain_nothing.copper_dust": "铜粉",
       "item.you_can_explain_nothing.bronze_nugget": "青铜粒",
@@ -2816,6 +2895,7 @@
       "item.you_can_explain_nothing.empty_dimension_medium": "空的维度媒介",
       "block.you_can_explain_nothing.technetium_ore": "锝矿石",
       "item.you_can_explain_nothing.unexpected_fluid_bucket": "未曾设想的流体之桶",
+      "item.you_can_explain_nothing.bronze_double_ingot": "Bronze Double Ingot",
       "item.you_can_explain_nothing.gum": "原始橡胶",
       "itemGroup.tabnothing_linnea": "契机：林旎"
     }
@@ -2823,7 +2903,7 @@
   "workspaceSettings": {
     "modid": "you_can_explain_nothing",
     "modName": "You Can Explain Nothing.",
-    "version": "1.3.1",
+    "version": "1.3.2",
     "description": "nope.",
     "author": "FXGstudio",
     "websiteURL": "https://mcbbs.net",

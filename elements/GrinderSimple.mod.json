@@ -76,14 +76,21 @@
     "particleSpawningRadious": 0.5,
     "particleAmount": 4,
     "hasInventory": true,
-    "guiBoundTo": "<NONE>",
+    "guiBoundTo": "GrinderSimpleGUI",
     "openGUIOnRightClick": true,
-    "inventorySize": 9,
+    "inventorySize": 5,
     "inventoryStackSize": 64,
     "inventoryDropWhenDestroyed": true,
     "inventoryComparatorPower": true,
-    "inventoryOutSlotIDs": [],
-    "inventoryInSlotIDs": [],
+    "inventoryOutSlotIDs": [
+      1,
+      2,
+      3
+    ],
+    "inventoryInSlotIDs": [
+      0,
+      4
+    ],
     "hasEnergyStorage": true,
     "energyInitial": 0,
     "energyCapacity": 20000,

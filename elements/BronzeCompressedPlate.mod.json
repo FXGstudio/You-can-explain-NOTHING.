@@ -3,18 +3,18 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "evil_essence",
+    "texture": "bronze_compressed_plate",
     "customModelName": "Normal",
-    "name": "Evil Essence",
+    "name": "Bronze Compressed Plate",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:NothingSurface"
     },
-    "stackSize": 1,
+    "stackSize": 64,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,
-    "damageCount": 16,
+    "damageCount": 0,
     "recipeRemainder": {
       "value": ""
     },
@@ -27,9 +27,6 @@
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
-    "inventoryStackSize": 64,
-    "onRightClickedOnBlock": {
-      "name": "EvilEssenceRightClickedOnBlock"
-    }
+    "inventoryStackSize": 64
   }
 }

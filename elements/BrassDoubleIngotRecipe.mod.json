@@ -7,9 +7,21 @@
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
+        "value": "CUSTOM:BronzeHammer"
+      },
+      {
+        "value": "CUSTOM:BrassIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BrassIngot"
+      },
+      {
         "value": ""
       },
       {
@@ -19,28 +31,16 @@
         "value": ""
       },
       {
-        "value": "Blocks.FURNACE"
+        "value": ""
       },
       {
-        "value": "CUSTOM:AncientDust"
-      },
-      {
-        "value": "Blocks.MAGMA"
-      },
-      {
-        "value": "Blocks.STONE"
-      },
-      {
-        "value": "Blocks.STONE"
-      },
-      {
-        "value": "Blocks.STONE"
+        "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:SoundFromSilence"
+      "value": "CUSTOM:BrassDoubleIngot"
     },
-    "name": "sound_from_silence_recipe",
+    "name": "brass_double_ingot_recipe",
     "namespace": "mod"
   }
 }
