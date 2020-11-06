@@ -1,0 +1,16 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "you_can_explain_nothing:bronze_hammer"
+    },
+    {
+      "item": "you_can_explain_nothing:bronze_ingot"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:bronze_plate",
+    "count": 1
+  }
+}

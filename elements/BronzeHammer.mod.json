@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bronze_hammer",
+    "customModelName": "Normal",
+    "name": "Bronze Hammer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NothingSurface"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 2,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 300,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:BronzeIngot"
+      }
+    ],
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

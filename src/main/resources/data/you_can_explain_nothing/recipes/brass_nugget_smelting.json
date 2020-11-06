@@ -1,0 +1,12 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:smelting",
+  "experience": 5,
+  "cookingtime": 175,
+  "ingredient": {
+    "item": "you_can_explain_nothing:brass_dust"
+  },
+  "result": {
+    "item": "you_can_explain_nothing:brass_nugget"
+  }
+}
