@@ -1,0 +1,33 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "you_can_explain_nothing:stone_plate"
+    },
+    "6": {
+      "item": "you_can_explain_nothing:tool_handle"
+    },
+    "7": {
+      "item": "you_can_explain_nothing:iron_string"
+    },
+    "8": {
+      "item": "you_can_explain_nothing:tool_handle"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:iron_wire_cutter",
+    "count": 1
+  }
+}

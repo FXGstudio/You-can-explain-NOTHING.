@@ -7,40 +7,40 @@
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": true,
+    "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Items.IRON_INGOT"
       },
       {
         "value": ""
       },
       {
-        "value": ""
+        "value": "Items.IRON_INGOT"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:TinIngot"
-      },
-      {
-        "value": "CUSTOM:IronWireCutter"
+        "value": "CUSTOM:StonePlate"
       },
       {
         "value": ""
       },
       {
-        "value": ""
+        "value": "CUSTOM:ToolHandle"
       },
       {
-        "value": ""
+        "value": "CUSTOM:IronString"
+      },
+      {
+        "value": "CUSTOM:ToolHandle"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:TinString"
+      "value": "CUSTOM:IronWireCutter"
     },
-    "name": "tin_string_recipe",
+    "name": "iron_wire_cutter_recipe",
     "namespace": "mod"
   }
 }

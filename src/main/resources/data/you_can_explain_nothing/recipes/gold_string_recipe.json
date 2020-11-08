@@ -3,7 +3,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:shears"
+      "item": "you_can_explain_nothing:iron_wire_cutter"
     },
     {
       "item": "minecraft:gold_ingot"

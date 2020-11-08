@@ -81,7 +81,7 @@ public class TechnetiumOreBlock extends YouCanExplainNothingModElements.ModEleme
 				if (blockAt.getBlock() == Blocks.STONE.getDefaultState().getBlock())
 					blockCriteria = true;
 				return blockCriteria;
-			}), block.getDefaultState(), 3), Placement.COUNT_RANGE, new CountRangeConfig(6, 1, 1, 27)));
+			}), block.getDefaultState(), 6), Placement.COUNT_RANGE, new CountRangeConfig(15, 1, 1, 27)));
 		}
 	}
 }
