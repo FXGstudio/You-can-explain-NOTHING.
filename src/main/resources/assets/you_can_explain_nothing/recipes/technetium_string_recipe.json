@@ -1,0 +1,16 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "you_can_explain_nothing:iron_wire_cutter"
+    },
+    {
+      "item": "you_can_explain_nothing:technetium_ingot"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:technetium_string",
+    "count": 1
+  }
+}

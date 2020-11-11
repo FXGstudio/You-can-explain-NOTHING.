@@ -1,0 +1,13 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "you_can_explain_nothing:calcium_carbide_block"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:calcium_carbide",
+    "count": 9
+  }
+}

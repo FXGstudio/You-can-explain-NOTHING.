@@ -1,0 +1,25 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "you_can_explain_nothing:zinc_dust"
+    },
+    {
+      "item": "you_can_explain_nothing:zinc_dust"
+    },
+    {
+      "item": "you_can_explain_nothing:copper_dust"
+    },
+    {
+      "item": "you_can_explain_nothing:copper_dust"
+    },
+    {
+      "item": "you_can_explain_nothing:copper_dust"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:brass_dust",
+    "count": 25
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:stibnite"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:stibnite"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:stibnite"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:stibnite"
+    },
+    "4": {
+      "item": "you_can_explain_nothing:stibnite"
+    },
+    "5": {
+      "item": "you_can_explain_nothing:stibnite"
+    },
+    "6": {
+      "item": "you_can_explain_nothing:stibnite"
+    },
+    "7": {
+      "item": "you_can_explain_nothing:stibnite"
+    },
+    "8": {
+      "item": "you_can_explain_nothing:stibnite"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:stibnite_block",
+    "count": 1
+  }
+}

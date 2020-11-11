@@ -1,7 +1,7 @@
 {
   "variants": {
-    "": {
-      "model": "you_can_explain_nothing:block/gum_log"
+    "normal": {
+      "model": "you_can_explain_nothing:gum_log"
     }
   }
 }

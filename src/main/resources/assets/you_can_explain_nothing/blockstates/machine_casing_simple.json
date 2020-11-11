@@ -1,7 +1,7 @@
 {
   "variants": {
-    "": {
-      "model": "you_can_explain_nothing:block/machine_casing_simple"
+    "normal": {
+      "model": "you_can_explain_nothing:machine_casing_simple"
     }
   }
 }

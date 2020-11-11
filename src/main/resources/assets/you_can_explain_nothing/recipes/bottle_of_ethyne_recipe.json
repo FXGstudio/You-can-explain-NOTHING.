@@ -1,0 +1,23 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:potion",
+      "data": 32767
+    },
+    "1": {
+      "item": "minecraft:glass_bottle"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:calcium_carbide"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:bottle_of_ethyne",
+    "count": 1
+  }
+}

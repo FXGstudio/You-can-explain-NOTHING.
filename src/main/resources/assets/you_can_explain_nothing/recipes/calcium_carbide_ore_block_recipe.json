@@ -1,0 +1,42 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:calcium_carbide"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:calcium_carbide"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:calcium_carbide"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:calcium_carbide"
+    },
+    "4": {
+      "item": "you_can_explain_nothing:calcium_carbide"
+    },
+    "5": {
+      "item": "you_can_explain_nothing:calcium_carbide"
+    },
+    "6": {
+      "item": "you_can_explain_nothing:calcium_carbide"
+    },
+    "7": {
+      "item": "you_can_explain_nothing:calcium_carbide"
+    },
+    "8": {
+      "item": "you_can_explain_nothing:calcium_carbide"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:calcium_carbide_block",
+    "count": 1
+  }
+}

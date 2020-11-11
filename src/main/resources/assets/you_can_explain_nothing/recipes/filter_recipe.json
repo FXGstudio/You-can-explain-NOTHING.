@@ -1,0 +1,42 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:stone_rod"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:stone_rod"
+    },
+    "4": {
+      "item": "you_can_explain_nothing:iron_string"
+    },
+    "5": {
+      "item": "you_can_explain_nothing:stone_rod"
+    },
+    "6": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "you_can_explain_nothing:stone_rod"
+    },
+    "8": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:filter",
+    "count": 1
+  }
+}

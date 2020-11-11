@@ -1,0 +1,36 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:stone_bolt_driver"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:stone_bend_plate"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:stone_hammer"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:ventilator"
+    },
+    "4": {
+      "item": "you_can_explain_nothing:stone_ring"
+    },
+    "5": {
+      "item": "you_can_explain_nothing:filter"
+    },
+    "7": {
+      "item": "you_can_explain_nothing:stone_bend_plate"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:controling_volve_simple",
+    "count": 1
+  }
+}

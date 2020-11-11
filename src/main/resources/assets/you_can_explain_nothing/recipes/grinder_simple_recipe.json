@@ -1,0 +1,42 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:ventilator"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:filter"
+    },
+    "2": {
+      "item": "minecraft:hopper"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:mill_stone"
+    },
+    "4": {
+      "item": "you_can_explain_nothing:machine_casing_simple"
+    },
+    "5": {
+      "item": "you_can_explain_nothing:mill_stone"
+    },
+    "6": {
+      "item": "you_can_explain_nothing:copper_string"
+    },
+    "7": {
+      "item": "you_can_explain_nothing:motor_simple"
+    },
+    "8": {
+      "item": "you_can_explain_nothing:stone_bolt_driver"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:grinder_simple",
+    "count": 1
+  }
+}

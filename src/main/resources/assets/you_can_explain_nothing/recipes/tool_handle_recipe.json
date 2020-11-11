@@ -1,0 +1,36 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:air"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:paper_ring"
+    },
+    "3": {
+      "item": "minecraft:air"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:air"
+    },
+    "6": {
+      "item": "you_can_explain_nothing:dried_gum"
+    },
+    "7": {
+      "item": "minecraft:air"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:tool_handle",
+    "count": 1
+  }
+}

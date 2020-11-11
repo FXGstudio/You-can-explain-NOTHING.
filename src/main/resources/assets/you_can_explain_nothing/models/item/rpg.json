@@ -5,7 +5,6 @@
     "1": "you_can_explain_nothing:blocks/gray",
     "2": "you_can_explain_nothing:blocks/red",
     "3": "you_can_explain_nothing:blocks/texture_1",
-    "4": "you_can_explain_nothing:blocks/brown",
-    "particle": "you_can_explain_nothing:items/gun"
+    "4": "you_can_explain_nothing:blocks/brown"
   }
 }

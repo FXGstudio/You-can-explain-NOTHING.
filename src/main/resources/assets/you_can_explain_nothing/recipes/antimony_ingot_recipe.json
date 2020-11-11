@@ -1,0 +1,42 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:antimony_nugget"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:antimony_nugget"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:antimony_nugget"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:antimony_nugget"
+    },
+    "4": {
+      "item": "you_can_explain_nothing:antimony_nugget"
+    },
+    "5": {
+      "item": "you_can_explain_nothing:antimony_nugget"
+    },
+    "6": {
+      "item": "you_can_explain_nothing:antimony_nugget"
+    },
+    "7": {
+      "item": "you_can_explain_nothing:antimony_nugget"
+    },
+    "8": {
+      "item": "you_can_explain_nothing:antimony_nugget"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:antimony_ingot",
+    "count": 1
+  }
+}

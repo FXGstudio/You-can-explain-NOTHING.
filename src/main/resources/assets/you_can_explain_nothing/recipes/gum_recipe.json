@@ -1,0 +1,19 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "you_can_explain_nothing:gum_planks"
+    },
+    {
+      "item": "you_can_explain_nothing:stone_hammer"
+    },
+    {
+      "item": "you_can_explain_nothing:stone_saw"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:gum",
+    "count": 1
+  }
+}

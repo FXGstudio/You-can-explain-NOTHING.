@@ -1,0 +1,14 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "forgegum_log"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:gum_planks",
+    "count": 4
+  }
+}

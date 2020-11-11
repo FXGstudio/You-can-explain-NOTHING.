@@ -1,0 +1,26 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:gum_log"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:gum_log"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:gum_log"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:gum_log"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:gum_wood",
+    "count": 3
+  }
+}

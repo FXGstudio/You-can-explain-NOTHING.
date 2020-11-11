@@ -1,7 +1,7 @@
 {
   "variants": {
-    "": {
-      "model": "you_can_explain_nothing:block/copper_ore"
+    "normal": {
+      "model": "you_can_explain_nothing:copper_ore"
     }
   }
 }

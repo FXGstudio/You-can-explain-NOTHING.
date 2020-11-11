@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "you_can_explain_nothing:welding_station"
+    },
+    "facing=north": {
+      "model": "you_can_explain_nothing:welding_station"
+    },
+    "facing=east": {
+      "model": "you_can_explain_nothing:welding_station",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "you_can_explain_nothing:welding_station",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "you_can_explain_nothing:welding_station",
+      "y": 270
+    }
+  }
+}

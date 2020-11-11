@@ -1,7 +1,7 @@
 {
   "variants": {
-    "": {
-      "model": "you_can_explain_nothing:block/ancient_dust_block"
+    "normal": {
+      "model": "you_can_explain_nothing:ancient_dust_block"
     }
   }
 }

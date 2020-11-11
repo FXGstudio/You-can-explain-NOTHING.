@@ -1,0 +1,19 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:lava_bucket"
+    },
+    {
+      "item": "you_can_explain_nothing:ancient_dust"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:evil_essence",
+    "count": 1
+  }
+}

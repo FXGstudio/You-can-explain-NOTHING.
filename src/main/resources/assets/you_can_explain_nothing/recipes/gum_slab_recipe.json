@@ -1,0 +1,23 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:gum_planks"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:gum_planks"
+    },
+    "2": {
+      "item": "you_can_explain_nothing:gum_planks"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:gum_slab",
+    "data": 0,
+    "count": 6
+  }
+}

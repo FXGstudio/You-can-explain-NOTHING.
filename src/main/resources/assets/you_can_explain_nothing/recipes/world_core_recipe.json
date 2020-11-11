@@ -1,0 +1,45 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "you_can_explain_nothing:lightning"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:tourmaline_gem"
+    },
+    "2": {
+      "item": "minecraft:leaves",
+      "data": 32767
+    },
+    "3": {
+      "item": "you_can_explain_nothing:ancient_dust"
+    },
+    "4": {
+      "item": "minecraft:waterlily"
+    },
+    "5": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "6": {
+      "item": "minecraft:stone",
+      "data": 32767
+    },
+    "7": {
+      "item": "minecraft:water_bucket"
+    },
+    "8": {
+      "item": "minecraft:grass"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:world_core",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    "345",
+    "  8"
+  ],
+  "key": {
+    "2": {
+      "item": "you_can_explain_nothing:lightning"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:copper_ingot"
+    },
+    "4": {
+      "item": "you_can_explain_nothing:copper_ingot"
+    },
+    "5": {
+      "item": "you_can_explain_nothing:copper_ingot"
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:ion_railgun",
+    "count": 1
+  }
+}

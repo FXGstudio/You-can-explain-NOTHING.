@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 0.5,
+    "cookingTime": 65,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:SolderingAlloyDust"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:SolderingAlloyNugget"
+    },
+    "name": "soldering_alloy_nugget_smelting",
+    "namespace": "mod"
+  }
+}

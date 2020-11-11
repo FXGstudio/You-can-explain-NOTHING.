@@ -1,0 +1,32 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "you_can_explain_nothing:copper_string"
+    },
+    "4": {
+      "item": "you_can_explain_nothing:bronze_ingot"
+    },
+    "5": {
+      "item": "you_can_explain_nothing:copper_string"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:bronze_saw",
+    "count": 1
+  }
+}

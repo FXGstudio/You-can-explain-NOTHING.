@@ -1,7 +1,7 @@
 {
   "variants": {
-    "": {
-      "model": "you_can_explain_nothing:block/tourmaline_ore_block"
+    "normal": {
+      "model": "you_can_explain_nothing:tourmaline_ore_block"
     }
   }
 }

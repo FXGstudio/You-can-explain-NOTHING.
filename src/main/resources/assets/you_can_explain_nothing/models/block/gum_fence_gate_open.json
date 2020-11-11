@@ -1,6 +1,0 @@
-{
-  "parent": "block/template_fence_gate_open",
-  "textures": {
-    "texture": "you_can_explain_nothing:blocks/gum_planks"
-  }
-}

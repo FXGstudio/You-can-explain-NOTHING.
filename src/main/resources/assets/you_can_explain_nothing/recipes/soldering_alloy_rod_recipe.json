@@ -1,0 +1,22 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "you_can_explain_nothing:bronze_hammer"
+    },
+    {
+      "item": "you_can_explain_nothing:bronze_saw"
+    },
+    {
+      "item": "you_can_explain_nothing:soldering_alloy_ingot"
+    },
+    {
+      "item": "you_can_explain_nothing:soldering_alloy_ingot"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:soldering_alloy_rod",
+    "count": 2
+  }
+}

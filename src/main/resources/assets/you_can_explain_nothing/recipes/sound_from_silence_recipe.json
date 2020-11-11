@@ -1,0 +1,35 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:furnace"
+    },
+    "1": {
+      "item": "you_can_explain_nothing:ancient_dust"
+    },
+    "2": {
+      "item": "minecraft:magma"
+    },
+    "3": {
+      "item": "minecraft:stone",
+      "data": 32767
+    },
+    "4": {
+      "item": "minecraft:stone",
+      "data": 32767
+    },
+    "5": {
+      "item": "minecraft:stone",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:sound_from_silence",
+    "count": 1
+  }
+}

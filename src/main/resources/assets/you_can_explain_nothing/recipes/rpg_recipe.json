@@ -1,0 +1,32 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:stone_button"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "you_can_explain_nothing:rpg",
+    "count": 1
+  }
+}

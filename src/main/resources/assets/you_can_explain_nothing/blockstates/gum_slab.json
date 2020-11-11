@@ -1,13 +1,10 @@
 {
   "variants": {
-    "type=bottom": {
-      "model": "you_can_explain_nothing:block/gum_slab"
+    "half=bottom,variant=default": {
+      "model": "you_can_explain_nothing:gum_slab"
     },
-    "type=top": {
-      "model": "you_can_explain_nothing:block/gum_slab_top"
-    },
-    "type=double": {
-      "model": "you_can_explain_nothing:block/gum_slab_full"
+    "half=top,variant=default": {
+      "model": "you_can_explain_nothing:gum_slab_top"
     }
   }
 }

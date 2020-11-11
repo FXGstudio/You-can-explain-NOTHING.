@@ -1,0 +1,23 @@
+{
+  "_fv": 13,
+  "_type": "fluid",
+  "definition": {
+    "name": "Ethyne",
+    "textureStill": "calciumcarbide_ore_block",
+    "textureFlowing": "calciumcarbide_ore_block",
+    "luminosity": 1,
+    "density": 1,
+    "viscosity": 100,
+    "isGas": true,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:NothingSurface"
+    },
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "End"
+    ],
+    "restrictionBiomes": []
+  }
+}

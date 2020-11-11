@@ -1,0 +1,19 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "you_can_explain_nothing:antimony_dust"
+    },
+    {
+      "item": "you_can_explain_nothing:tin_dust"
+    },
+    {
+      "item": "you_can_explain_nothing:tin_dust"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:soldering_alloy_dust",
+    "count": 10
+  }
+}

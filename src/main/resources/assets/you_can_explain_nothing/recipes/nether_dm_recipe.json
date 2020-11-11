@@ -1,0 +1,16 @@
+{
+  "group": "you_can_explain_nothing",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:netherrack"
+    },
+    {
+      "item": "you_can_explain_nothing:empty_dimension_medium"
+    }
+  ],
+  "result": {
+    "item": "you_can_explain_nothing:nether_dimension_medium",
+    "count": 1
+  }
+}

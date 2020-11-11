@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "forge:fluid"
+  },
+  "variants": {
+    "unexpected_fluid": [
+      {
+        "custom": {
+          "fluid": "unexpected_fluid"
+        }
+      }
+    ]
+  }
+}
